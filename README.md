@@ -13,9 +13,9 @@
 
 *Graphic Design has always been indicative of the age in which it was created: From the 40s constructivist ideological graphics, to the 60s psychodelic rock band posters (below); design has had the difficult task of reflecting current society. Our society, however, is like no other before. Our constant and unending bombartement of media, most of it from past generations, has left this generation of designers with millions of peices of inspiration, all found just a click away.*
 
-*This abundance of inspiration can leave us feeling lost *
+*This abundance of inspiration can leave us feeling lost and, well, we kind of are. The design tendancy now, especially amongst this young generation of designers, almost always tries to replicate a feeling of nostalgia: Either by adding copious amounts of grain to imageres or by using physical techniques to reproduce the style of 90s magazines like "Blah Blah Blah", "The Face" or "Ray Gun". However, when these styles were pioneered, the designers were not subject to the enormous pressures of the online community to accurately and equally represent all ideologies and beliefs. This leaves the current community of young designers having to not only innovate, but also do so under the constant scrutinization of an all-seeing digisphere. Everything we will ever create, especially that which we will create for comercial purposes, will not only have to be progressive enough to please a liberal audience, but also traditional enough to not anger and rile the conservative audience; therefore leaving nobody feeling alienated. This, at its core, is the main proplem facing the modern deisgner. How will we symoltaneusly create change and maintain a livelihood?*
 
-![Greatful dead](https://user-images.githubusercontent.com/93599281/139957818-ff53d139-c517-4265-81b7-6a2e5b073e6e.jpg)
+![Greatful dead](https://user-images.githubusercontent.com/93599281/139965665-d848964d-d337-4827-8d4f-7e2309f724aa.jpg)
 
 
 
