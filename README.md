@@ -1,6 +1,6 @@
 # Weaponised Design
 
-> Examining how the online age has built, and weaponised, a new generation of designers.
+> Examining how the online age has built, **and weaponised**, a new generation of designers.
 
 *The pen was never my weapon of choice. I have been born into a world now a far cry from what design once was. My father is a graphic designer. He would tell me of his time in Art School almost 40 years ago. A time in which design was far more black and white, a time in which design was an artform and not merely a means of creating propaganda. Before computers, before phones, before bluetooth-enabled sentient hoovers and touch-screen fridges, designers relied on pen, paper and scalpels to produce elaborate pieces of design spanning from leaflets to bus wraps. God did it sound boring.*
 
