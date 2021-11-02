@@ -1,4 +1,4 @@
-# Weaponised-Design
+# **Weaponised-Design**
 
 ## Examining how the online age has built, and weaponised, a new generation of designers.
 
