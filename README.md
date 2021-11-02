@@ -13,6 +13,6 @@
 
 ## Context
 
-*Historically, graphic design has always been highly reflective of the age in which it was created: From the 40s constructivist ideological graphics, to the 60s psychodelic rock band posters; design has had the difficult task of*
+*Historically, graphic design has always been indicative of the age in which it was created: From the 40s constructivist ideological graphics, to the 60s psychodelic rock band posters (below); design has had the difficult task of reflecting current society. Our society, however, is like no other. *
 
 
