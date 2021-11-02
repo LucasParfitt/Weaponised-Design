@@ -1,6 +1,6 @@
 # Weaponised Design
 
-![](https://ibb.co/87jGV2p)
+![Weaponised Design](https://user-images.githubusercontent.com/93599281/139946514-c69ba22a-c62b-423f-ada9-123a9577a69b.jpg)
 
 > Examining how the online age has built, **and weaponised**, a new generation of designers.
  
