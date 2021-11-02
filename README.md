@@ -13,6 +13,7 @@
 
 ## Context
 
-*Historically, graphic design has always been indicative of the age in which it was created: From the 40s constructivist ideological graphics, to the 60s psychodelic rock band posters (below); design has had the difficult task of reflecting current society. Our society, however, is like no other. *
+*Historically, graphic design has always been indicative of the age in which it was created: From the 40s constructivist ideological graphics, to the 60s psychodelic rock band posters (below); design has had the difficult task of reflecting current society. Our society, however, is like no other.*
 
+![Greatful dead](https://user-images.githubusercontent.com/93599281/139957818-ff53d139-c517-4265-81b7-6a2e5b073e6e.jpg)
 
