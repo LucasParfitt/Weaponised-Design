@@ -15,6 +15,8 @@
 
 ![Greatful dead](https://user-images.githubusercontent.com/93599281/139965665-d848964d-d337-4827-8d4f-7e2309f724aa.jpg)
 
+![Greatful dead](https://user-images.githubusercontent.com/93599281/140001650-b8567ef1-2f2a-4767-b275-b84e6e5cc0fe.png)
+
 ## The Problem
 
 *This abundance of inspiration can leave us feeling lost and, well, we kind of are. The design tendancy now, especially amongst this young generation of designers, almost always tries to replicate a feeling of nostalgia: Either by adding copious amounts of grain to imageres or by using physical techniques to reproduce the style of 90s magazines like "Blah Blah Blah", "The Face" or "Ray Gun". However, when these styles were pioneered, the designers were not subject to the enormous pressures of the online community to accurately and equally represent all ideologies and beliefs. This leaves the current community of young designers having to not only innovate, but also do so under the constant scrutinization of an all-seeing digisphere. Everything we will ever create, especially that which we will create for comercial purposes, will not only have to be progressive enough to please a liberal audience, but also traditional enough to not anger and rile the conservative audience; therefore leaving nobody feeling alienated. This, at its core, is the main proplem facing the modern deisgner. How will we simultaneously create change and maintain a livelihood?*
