@@ -1,4 +1,4 @@
-![Weaponised Design](https://user-images.githubusercontent.com/93599281/140001963-2faad8f3-16e4-437b-9f30-ae6fdc7d4b63.png)
+![Weaponised Design](https://user-images.githubusercontent.com/93599281/140002840-156ec3c7-3935-40f7-b317-c265af0aa8f9.png)
 
 # Weaponised Design                                                                                                                                                           
 > Examining how the electronic age has built, **and weaponised**, a new generation of designers.
@@ -13,9 +13,7 @@
 
 *Graphic Design has always been indicative of the age in which it was created: From the 40s constructivist ideological graphics, to the 60s psychodelic rock band posters (below); design has had the difficult task of reflecting current society. Our society, however, is like no other before. Our constant and unending bombartement of media, most of it from past generations, has left this generation of designers with millions of peices of inspiration, all found just a click away.*
 
-
-![Greatful dead](https://user-images.githubusercontent.com/93599281/140002183-30c9e30e-3861-4ba4-ad46-868972264ee8.png)
-
+![Greatful dead](https://user-images.githubusercontent.com/93599281/140002823-129bb268-ad62-4fab-85c2-282bceb04cbd.png)
 
 ## The Problem
 
@@ -26,7 +24,6 @@
 ## The Solution
 
 *Just as the internet is seemingly the cause of all our problems, it also holds the solutions*
-
 
 ***THE INTERNET IS NOT EVIL, YET IT MUST BE USED CORRECTLY. WE, AS DESIGNERS, MUST WALK THAT THIN LINE.***
 
