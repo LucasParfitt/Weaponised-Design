@@ -14,7 +14,8 @@
 *Graphic Design has always been indicative of the age in which it was created: From the 40s constructivist ideological graphics, to the 60s psychodelic rock band posters (below); design has had the difficult task of reflecting current society. Our society, however, is like no other before. Our constant and unending bombartement of media, most of it from past generations, has left this generation of designers with millions of peices of inspiration, all found just a click away.*
 
 
-![Greatful dead](https://user-images.githubusercontent.com/93599281/140001650-b8567ef1-2f2a-4767-b275-b84e6e5cc0fe.png)
+![Greatful dead](https://user-images.githubusercontent.com/93599281/140002183-30c9e30e-3861-4ba4-ad46-868972264ee8.png)
+
 
 ## The Problem
 
