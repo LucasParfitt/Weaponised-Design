@@ -1,6 +1,6 @@
 ![Weaponised Design](https://user-images.githubusercontent.com/93599281/140002840-156ec3c7-3935-40f7-b317-c265af0aa8f9.png)
 
-# Weaponised Design                                                                                                                                                           
+# Weaponised Design                                                                                                                                                          
 > Examining how the electronic age has built, **and weaponised**, a new generation of designers.
                                                                                                 
 ## Introduction
@@ -14,6 +14,7 @@
 *Graphic Design has always been indicative of the age in which it was created: From the 40s constructivist ideological graphics, to the 60s psychedelic rock band posters (below); design has had the difficult task of reflecting current society. Our society, however, is like no other before. Our constant and unending bombardement of media, most of it from past generations, has left this generation of designers with millions of pieces of inspiration, all found just one click away.*
 
 ![Greatful dead](https://user-images.githubusercontent.com/93599281/140002823-129bb268-ad62-4fab-85c2-282bceb04cbd.png)
+> Greatful dead poster left. Constructivist Gustav Klutis poster right.
 
 ## The Problem
 
