@@ -5,7 +5,7 @@
                                                                                                 
 ## Introduction
 
-*The pen was never my weapon of choice. I've been born into a world in which design is a far cry from what it once was. My father is a Graphic Designer. He would tell me of his time in Art School almost 40 years ago. A time in which design was far more black and white, a time in which (for good or bad) design was an artform and not merely a means of creating propaganda. Propaganda we now create for institutions, for politicians or for individuals. Before computers, before phones, before bluetooth-enabled sentient hoovers and touch-screen fridges, designers relied on pen, paper and scalpels to produce elaborate pieces of art spanning from posters to bus wraps. God did it sound tedious.*
+*The pen was never my weapon of choice. I was born into a world in which design is a far cry from what it once was. My father is a Graphic Designer. He would tell me of his time in Art School almost 40 years ago. A time in which design was far more black and white, a time in which (for good or bad) design was an artform and not merely a means of creating propaganda. Propaganda we now create for institutions, for politicians or for individuals. Before computers, before phones, before bluetooth-enabled sentient hoovers and touch-screen fridges, designers relied on pen, paper and scalpels to produce elaborate pieces of art spanning from posters to bus wraps. God did it sound tedious.*
 
 *I am a product of the electronic age. I’m tethered to my phone, my laptop is my notepad and my digital camera shows me my photos in 2 seconds, not 2 weeks. I have been brought up on a steady diet of social media and forced advertising, ultimately making me the media-hungry monster that most of us have become. Although this all sounds oh-so horrible, I've loved it. Despite the enormous fostering of hate online, something else has also been fostered… a community. Not a community with a handful of people, but an online design community encompassing millions, an online community that taught me design and, ultimately, weaponised it.*
 
@@ -23,7 +23,7 @@
 
 ## The Solution
 
-*Just as the internet is seemingly the cause of all our problems, it also holds the solutions. While the internet is often presented as a place to spread hate, it is also a place of learning. Technology helps designers every day to create better work more efficiently, and spread it with an ever-growing audience. However, everything must be used in moderation and correctly. We must try our very best to acknowledge the wide array of opinions and beliefs that our design can now impact and target, regardless of whether we, personally, agree with them. As for how to stop our design being ideologically weaponised (even if we intend for it to come from an apolitical standpoint), the only thing we can do is weaponise it ourselves. Make sure your work is infused with unmistakable meaning and perhaps, years down the line when the online community is in the tens-of-billions, the intent behind all that we have created will remain crystal clear.*
+*Just as the internet is seemingly the cause of all our problems, it also holds the solutions. While the internet is often presented as a place to spread hate, it is also a place of learning. Technology helps designers every day to create better work more efficiently, and spread it with an ever-growing audience. However, everything must be used in moderation and correctly. We must try our very best to acknowledge the wide array of opinions and beliefs that our design can now impact and target, regardless of whether we, personally, agree with them. As for how to stop our design being ideologically weaponised (even if we intend for it to come from an apolitical standpoint), the only thing we can do is weaponise it ourselves. Make sure your work is infused with unmistakable meaning and perhaps, years down the line, when the online community is its the tens-of-billions, the intent behind all that we have created will remain crystal clear.*
 
 *Or don't, you won’t be alive to see it anyway.*
 
@@ -31,7 +31,6 @@
 
 **EVERYONE HAS AN IDEOLOGY. EVERYTHING MUST BE CONSIDERED. WEAPONISE YOUR DESIGN BEFORE IT'S WEAPONISED FOR YOU.**
 
-![4](https://user-images.githubusercontent.com/93599281/140420789-cd1641ef-2425-4d82-84ca-3e099c672738.jpg)
-
+![Weaponised design](https://user-images.githubusercontent.com/93599281/140421394-f96002c0-058d-4053-bd52-e491f3a5139d.jpg)
 
 
