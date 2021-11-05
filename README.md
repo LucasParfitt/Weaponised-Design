@@ -32,6 +32,6 @@
 
 **EVERYONE HAS AN IDEOLOGY. EVERYTHING MUST BE CONSIDERED. WEAPONISE YOUR DESIGN BEFORE IT'S WEAPONISED FOR YOU.**
 
-![Weaponised design](https://user-images.githubusercontent.com/93599281/140421394-f96002c0-058d-4053-bd52-e491f3a5139d.jpg)
+![Weaponised design](https://user-images.githubusercontent.com/93599281/140440159-0f23432a-d529-4b88-a4af-08a573b4cf27.jpg)
 
 
